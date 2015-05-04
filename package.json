@@ -1,0 +1,24 @@
+{
+  "name": "Astray",
+  "version": "1.0.0",
+  "description": "A WebGL maze game built with Three.js and Box2dWeb. Play it here: http://wwwtyro.github.com/Astray/",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wwwtyro/Astray.git"
+  },
+  "keywords": [],
+  "author": "darius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wwwtyro/Astray/issues"
+  },
+  "homepage": "https://github.com/wwwtyro/Astray",
+  "dependencies": {
+    "express": "^4.12.3",
+    "socket.io": "^1.3.5"
+  }
+}
